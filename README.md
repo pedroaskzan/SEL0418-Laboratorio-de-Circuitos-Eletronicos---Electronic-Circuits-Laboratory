@@ -1,2 +1,4 @@
 # SEL0418-Laboratorio-de-Circuitos-Eletronicos---Electronic-Circuits-Laboratory
 Completed Electronic Circuits Lab involving physical circuit assembly, analysis, and digital circuit assembly and simulation using software. Chose mainly Proteus for simulations and was responsible for most simulations work, while contributing to in-class problem solving. Achieved the second highest grade in the class.
+
+I want to show in this repository my skill to assemble and simulate digital circuits properly.
